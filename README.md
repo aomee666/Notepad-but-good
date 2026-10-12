@@ -1,2 +1,20 @@
-# Notepad-but-good
-SMALL ASS NOTEPAD
+# notpad
+
+The entire source code is 1KB. The binary fits on a floppy disk.
+
+### What is this?
+A stupidly fast, offline notepad. No Electron. No 400MB. Just double tap and type.
+
+- Instant open
+- Autosaves
+- Offline
+- 1.4MB binary, fits on a 1.44MB floppy
+- 1KB source code
+
+### Download
+- `notpad.zip` - just run it
+- `source.zip` - the whole code, 1KB
+
+### Build it yourself
+```bash
+go build -tags webkit2gtk_4_1 -trimpath -ldflags="-s -w" -o notpad
