@@ -14,7 +14,8 @@ A stupidly fast, offline notepad. No Electron. No 400MB. Just double tap and typ
 ### Download
 - `notepad.zip` - just run it
 - `source.zip` - the whole code, 1KB
-
+  ### Saving
+  - notepad.zip doesn't save I'm not yo tech support i ain't care
 - can't find notepad.txt skill issue
 - you GOTTA use cat for the viewing of the notes
 
