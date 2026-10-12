@@ -15,6 +15,8 @@ A stupidly fast, offline notepad. No Electron. No 400MB. Just double tap and typ
 - `notepad.zip` - just run it
 - `source.zip` - the whole code, 1KB
 
+- can't find notepad.txt skill issue 
+
 ### Build it yourself
 ```bash
 go build -tags webkit2gtk_4_1 -trimpath -ldflags="-s -w" -o notpad
