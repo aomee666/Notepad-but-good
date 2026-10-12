@@ -1,4 +1,4 @@
-# notpad
+# notepad
 
 The entire source code is 1KB. The binary fits on a floppy disk.
 
@@ -6,13 +6,13 @@ The entire source code is 1KB. The binary fits on a floppy disk.
 A stupidly fast, offline notepad. No Electron. No 400MB. Just double tap and type.
 
 - Instant open
-- Autosaves
+- Auto saves
 - Offline
 - 1.4MB binary, fits on a 1.44MB floppy
 - 1KB source code
 
 ### Download
-- `notpad.zip` - just run it
+- `notepad.zip` - just run it
 - `source.zip` - the whole code, 1KB
 
 ### Build it yourself
