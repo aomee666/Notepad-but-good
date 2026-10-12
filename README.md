@@ -16,6 +16,7 @@ A stupidly fast, offline notepad. No Electron. No 400MB. Just double tap and typ
 - `source.zip` - the whole code, 1KB
 
 - can't find notepad.txt skill issue
+- you GOTTA use cat for the viewing of the notes
 
 ### Build it yourself
 ```bash
