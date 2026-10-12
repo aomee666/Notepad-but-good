@@ -15,7 +15,8 @@ A stupidly fast, offline notepad. No Electron. No 400MB. Just double tap and typ
 - `notepad.zip` - just run it
 - `source.zip` - the whole code, 1KB
 
-- can't find notepad.txt skill issue 
+- can't find notepad.txt skill issue
+- download via source and you'll be able to find it somewhere ion know or can lil baby not compile source
 
 ### Build it yourself
 ```bash
